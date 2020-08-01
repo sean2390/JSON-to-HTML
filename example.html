@@ -11,10 +11,12 @@
 		$( document ).ready(function() {
 			var data = {
 						"appointments": [{
+							"id": "20200101G",
 							"name": "Gas",
 							"date": "Monday 1st September",
 							"time": "12:00pm"
 						}, {
+							"id": "20200102W",
 							"name": "Water",
 							"date": "Tuesday 2nd September",
 							"time": "1:00pm"
@@ -38,7 +40,7 @@
 		<h2>Appointments</h2>
 		
 		<div id="Appointments" style="display: none;">
-			<a href="#" class="btn btn-primary">[[name]]<br/>[[date]]<br/>[[time]]</a>
+			<a href="https://somebookingwebsite.com/[[id]]" class="btn btn-primary">[[name]]<br/>[[date]]<br/>[[time]]</a>
 		</div>
 	</div>
 </body>

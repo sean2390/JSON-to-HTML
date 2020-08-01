@@ -1,9 +1,11 @@
 {
 	"appointments": [{
+		"id": "20200101G",
 		"name": "Gas",
 		"date": "Monday 1st September",
 		"time": "12:00pm"
 	}, {
+		"id": "20200102W",
 		"name": "Water",
 		"date": "Tuesday 2nd September",
 		"time": "1:00pm"
