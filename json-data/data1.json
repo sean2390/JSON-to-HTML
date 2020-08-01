@@ -1,0 +1,11 @@
+{
+	"appointments": [{
+		"name": "Gas",
+		"date": "Monday 1st September",
+		"time": "12:00pm"
+	}, {
+		"name": "Water",
+		"date": "Tuesday 2nd September",
+		"time": "1:00pm"
+	}]
+}
